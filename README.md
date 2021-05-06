@@ -38,6 +38,14 @@ ROS2 implementation of Interestingness_ros (ROS1) (a ROS2 source package)
 
 ## Quick Start
 
+### Submodule
+
+```shell
+cd [to-your-ws]/src/interestingness_ros2/
+git submodule init
+git submodule update
+```
+
 ### Use rosbag2_bag_v2 (recommend)
 
 #### In Shell 1
