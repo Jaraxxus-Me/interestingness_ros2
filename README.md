@@ -32,7 +32,7 @@ ROS2 implementation of Interestingness_ros (ROS1) (a ROS2 source package)
 
 - [ros1_bridge](https://index.ros.org/p/ros1_bridge/) (not sure if necessary)
 
-- Another source package interface [Interface](..) in the same /src directory
+- Another source package interface [Interface](https://github.com/Jaraxxus-Me/Interface.git) in the same /src directory
 
 
 
