@@ -34,6 +34,8 @@ ROS2 implementation of Interestingness_ros (ROS1) (a ROS2 source package)
 
 - Another source package interface [Interface](https://github.com/Jaraxxus-Me/Interface.git) in the same /src directory
 
+- [model](https://github.com/wang-chen/interestingness/releases/download/v2.0/vgg16.pt.SubTF.n100usage.mse) in /interestingness_ros2/saves directory
+
 
 
 ## Quick Start
@@ -45,6 +47,10 @@ cd [to-your-ws]/src/interestingness_ros2/
 git submodule init
 git submodule update
 ```
+
+### Path
+
+Change the rosbag path in file bags.py.
 
 ### Use rosbag2_bag_v2 (recommend)
 
